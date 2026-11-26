@@ -165,6 +165,6 @@ The complete write-up is in the [`documentation`](documentation/) folder.
 
 Beere Bhavana, B.Tech Electronics and Communication Engineering at RGIT Kadapa (2023-2027), working towards a career in embedded engineering.
 
-- GitHub: [bhavana735-embedded](https://github.com/bhavana735-embedded)
-- LinkedIn: `<your-linkedin-url>`
-- Email: `<your-email>`
+
+- Email: `bhavanabeere6@gmail.com
+- `
